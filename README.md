@@ -12,7 +12,7 @@ This project uses machine learning to predict heart disease risk based on clinic
 
 ## 🚀 Demo
 
-👉 [Live Demo on Streamlit](https://yourapp.streamlit.app) ← *replace with your link*
+👉 [Live Demo on Streamlit](https://heartdiseaseproject-9xake5v3knuegpjajnmtzz.streamlit.app/) 
 
 ## 📁 How to Run Locally
 
